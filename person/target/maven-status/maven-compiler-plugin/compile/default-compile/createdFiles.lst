@@ -1,0 +1,13 @@
+com\example\person\controller\EstadoREST.class
+com\example\person\PersonApplication.class
+com\example\person\service\PersonaService.class
+com\example\person\Repo\RepoPersona.class
+com\example\person\Repo\RepoPais.class
+com\example\person\model\Persona.class
+com\example\person\Repo\RepoEstado.class
+com\example\person\controller\PersonaREST.class
+com\example\person\service\EstadoService.class
+com\example\person\service\PaisService.class
+com\example\person\controller\PaisREST.class
+com\example\person\model\Pais.class
+com\example\person\model\Estado.class
